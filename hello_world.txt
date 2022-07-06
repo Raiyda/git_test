@@ -1,0 +1,1 @@
+Some sample text to save and commit to Git
